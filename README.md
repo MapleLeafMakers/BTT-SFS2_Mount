@@ -1,5 +1,7 @@
 # BTT-SFS2 Mount
 
+A Mount for the BigTreeTech Smart Filament Detection Module V2.0 for Voron 2 and Trident.
+
 ![front render](Images/render_front.png)
 ![rear render](Images/render_rear.png)
 
